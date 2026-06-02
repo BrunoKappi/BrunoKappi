@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Bruno Kappi</h1>
 <h4 align="left">I'm a Systems Analyst and web developer. I have 7 years of experience in Web Development. 5 years in Industrial Automation, which allowed me to become a highly qualified professional in both areas. I completed three degrees: Electronics Technician , Systems Analysis and Development and Process Management. My work experience includes developing, maintaining, improving and managing information systems projects and MES Systems. I Am also proficient in web development, with extensive knowledge of languages such as ReactJS, NodeJS, HTML, CSS, PHP, JavaScript, typescript, tailwindcss, among others. I live in Novo Hamburgo, RS, Brazil.</h4>
 
-- 👨‍💻 All of my projects are available at [myportfolio.bkappi.com](myportfolio.bkappi.com)
+- 👨‍💻 All of my projects are available at [portfolio.bkappi.com](portfolio.bkappi.com)
 
-- 📝 I regularly write articles on [bkappi.com](bkappi.com)
+- 📝 I regularly write articles on [blog.bkappi.com](blog.bkappi.com)
 
 - 📫 How to reach me **bruno@bkappi.com**
 
-- 📄 Know about my experiences [myportfolio.bkappi.com](myportfolio.bkappi.com)
+- 📄 Know about my experiences [portfolio.bkappi.com](portfolio.bkappi.com)
 
 
 <div align="center">
